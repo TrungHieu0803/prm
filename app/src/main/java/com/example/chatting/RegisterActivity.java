@@ -115,7 +115,7 @@ public class RegisterActivity extends AppCompatActivity {
                     z.child(uId).setValue(hashMap);
                     Toast.makeText(RegisterActivity.this,"\n" +
                             "Đã đăng ký thành công",Toast.LENGTH_LONG).show();
-                    Intent intent=new Intent(RegisterActivity.this, MainActivity.class);
+                    Intent intent=new Intent(RegisterActivity.this, RegisterGender.class);
                     startActivity(intent);
                     WelcomeActivity.fa.finish();
                     finish();
