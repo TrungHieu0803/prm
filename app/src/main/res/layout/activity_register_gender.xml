@@ -48,7 +48,7 @@
             android:layout_marginLeft="24dp"
             android:layout_marginRight="24dp"
             android:layout_marginBottom="20dp"
-            android:text="Gender Please !!!!"
+            android:text="Giới tính"
             android:textColor="#747474"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -67,7 +67,7 @@
                 android:layout_weight="1"
                 android:background="#ff4081"
                 android:elevation="24dp"
-                android:text="MALE"
+                android:text="nam"
                 android:textColor="@android:color/white"
                 android:textSize="30sp"
                 android:textStyle="bold" />
@@ -82,7 +82,7 @@
                 android:layout_weight="1"
                 android:background="#ff4081"
                 android:elevation="24dp"
-                android:text="FEMALE"
+                android:text="nữ"
                 android:textColor="@android:color/white"
                 android:textSize="30sp"
                 android:textStyle="bold" />
@@ -99,7 +99,7 @@
             android:background="#ff4081"
             android:backgroundTint="#ff4081"
             android:elevation="24dp"
-            android:text="Continue"
+            android:text="Tiếp tục"
             android:textColor="@android:color/white"
             android:textStyle="bold" />
 

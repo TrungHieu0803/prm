@@ -47,7 +47,7 @@
             android:layout_centerHorizontal="true"
             android:layout_marginLeft="24dp"
             android:layout_marginRight="24dp"
-            android:text="When were you born?"
+            android:text="Ngày sinh"
             android:textColor="#747474"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -78,7 +78,7 @@
             android:background="#ff4081"
             android:backgroundTint="#ff4081"
             android:elevation="24dp"
-            android:text="Continue"
+            android:text="Hoàn tất"
             android:textColor="@android:color/white"
             android:textStyle="bold" />
     </LinearLayout>

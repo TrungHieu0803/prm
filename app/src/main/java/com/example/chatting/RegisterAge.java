@@ -63,7 +63,7 @@ public class RegisterAge extends AppCompatActivity {
             // code to set the dateOfBirthAttribute.
             //user.setDateOfBirth(strDateOfBirth);
 
-            Intent intent = new Intent(this, RegisterHobby.class);
+            Intent intent = new Intent(this, MainActivity.class);
           //  intent.putExtra("password", password);
          //   intent.putExtra("classUser", user);
             startActivity(intent);
